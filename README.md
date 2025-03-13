@@ -41,7 +41,10 @@ Ministry of Defence
 
 
 ## Dependencies
-Mapping service-10 days
-Data collection-20 days
-budget-rs.50,000
+
+Mapping service-10 days.
+
+Data collection-20 days.
+
+budget-rs.50,000.
 
